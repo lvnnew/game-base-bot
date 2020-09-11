@@ -1,6 +1,6 @@
 settings = {
-    'TOKEN': 'NzMwMDM5NTQxMjg0NzMyOTU4.XwbqKw.npciI07PNlDnm7hHkIi5DVtjemU',
+    'TOKEN': 'primer_token', #тык in сюда, в одинарных ковычках
     'NAME BOT': 'Game_test',
-    'ID': 730039541284732958,
+    'ID': 12345, #сюда тык client id без кавычек
     'PREFIX': '!'
 }
